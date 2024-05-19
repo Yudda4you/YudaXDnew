@@ -1,8 +1,8 @@
     MAIL_DRIVER: "smtp"
     MAIL_HOST: "mail"
     MAIL_PORT: "1025"
-    MAIL_USERNAME: ""
-    MAIL_PASSWORD: ""
+    MAIL_USERNAME: "Yudda4you"
+    MAIL_PASSWORD: "Jora_S01"
     MAIL_ENCRYPTION: "true"
  
 #
